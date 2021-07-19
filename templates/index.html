@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Enchanted api</title>
+</head>
+<body>
+	<p>hi user /droptime/?player= to got info about a player</p>
+    <input type="text" placeholder="Type something..." id="myInput">
+    <button type="button" onclick="getInputValue();">Find name</button>
+    
+    <script>
+        function getInputValue(){
+            // Selecting the input element and get its value 
+            const inputVal = document.getElementById("myInput").value;
+            
+            // Displaying the value
+			return inputVal
+        }
+    </script>
+	<button onclick="window.location.href='https://1d2bbca9293a.ngrok.io/droptime/?player='`${ inputVal }`'">Continue</button>
+</body>
+</html>
