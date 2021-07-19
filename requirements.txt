@@ -21,16 +21,11 @@ cssselect==1.1.0
 cycler==0.10.0
 DateTime==4.3
 decorator==4.4.2
-discord-webhook==0.13.0
-discord.py @ git+https://github.com/Rapptz/discord.py.git@fbafe20e510af604f7c81e87130409ea7e4526b8
 Django==3.2.2
 dnspython==1.15.0
 docopt==0.6.2
 docutils==0.17.1
 emoji==1.2.0
-Enchanted==3.7
-EnchantedSniper==0.1
-EnchantedSniperv2==1.0
 environs==9.3.2
 fake-useragent==0.1.11
 Flask==2.0.1
