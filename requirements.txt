@@ -29,7 +29,6 @@ emoji==1.2.0
 environs==9.3.2
 fake-useragent==0.1.11
 Flask==2.0.1
-freenom-dns-updater==1.2.9
 funcsigs==1.0.2
 gevent==21.1.2
 graphviz==0.16
@@ -66,27 +65,5 @@ oscrypto==1.2.1
 packaging==20.9
 parse==1.19.0
 pathlib==1.0.1
-Pillow==8.2.0
-ping3==2.7.0
-pipwin==0.5.1
-pkginfo==1.7.0
-PyAutoGUI==0.9.52
-pycparser==2.20
-pyee==8.1.0
-pygame==2.0.1
-PyGetWindow==0.0.9
-Pygments==2.9.0
-pyjsparser==2.7.1
-PyMsgBox==1.0.9
-PyNaCl==1.4.0
-pyngrok==5.0.5
-pyparsing==2.4.7
-pyperclip==1.8.2
-pypiwin32==223
-pyppeteer==0.2.5
-PyPrind==2.11.3
-PyQt5==5.15.4
-PyQt5-Qt5==5.15.2
-PyQt5-sip==12.9.0
 requests==2.25.1
 
